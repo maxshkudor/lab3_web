@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Власна кольорова палітра: слива → бордо → малиновий → помаранчевий */
+@theme {
+  --color-plum: #511845;
+  --color-wine: #900c3f;
+  --color-crimson: #c70039;
+  --color-flame: #ff5733;
+  --color-coral: #ff7a5c;
+
+  --color-blush: #f8f1f6;
+  --color-blush-alt: #fbf3f7;
+  --color-rose: #fde4ea;
+  --color-line: #ecd9e6;
+  --color-ink: #3d2438;
+  --color-muted: #7a5a72;
+
+  --color-night: #160712;
+  --color-night-card: #230f20;
+  --color-night-alt: #2f1629;
+  --color-night-line: #4a2444;
+  --color-mist: #ead9e6;
+}
